@@ -1,0 +1,3 @@
+Several availible prediction:
+1. The stock open value of the next #days. ("evaluation on a rolling forecasting origin" method here https://robjhyndman.com/hyndsight/tscv/)
+2. The 
