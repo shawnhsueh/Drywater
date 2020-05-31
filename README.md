@@ -5,6 +5,7 @@ pre-requisite:
 -tensorflow==1.6
 -pandas==1.0.3
 -sklearn==0.22.1
+-numpy==1.18.1
 
 1. update the historic stock price form
 code\auto download update script
