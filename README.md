@@ -14,3 +14,4 @@ code\auto download update script
 
 -issues:
 1. Since the model in LSTM_single.py is trained on single stock historical price, the predictability is very limited.
+2. ..
